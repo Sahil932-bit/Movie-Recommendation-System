@@ -1,0 +1,101 @@
+movieId,title,genres
+1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+2,Jumanji (1995),Adventure|Children|Fantasy
+3,Grumpier Old Men (1995),Comedy|Romance
+4,Waiting to Exhale (1995),Comedy|Drama|Romance
+5,Father of the Bride Part II (1995),Comedy
+6,Heat (1995),Action|Crime|Thriller
+7,Sabrina (1995),Comedy|Romance
+8,Tom and Huck (1995),Adventure|Children
+9,Sudden Death (1995),Action
+10,GoldenEye (1995),Action|Adventure|Thriller
+11,American President The (1995),Comedy|Drama|Romance
+12,Dracula: Dead and Loving It (1995),Comedy|Horror
+13,Balto (1995),Adventure|Animation|Children
+14,Nixon (1995),Drama
+15,Cutthroat Island (1995),Action|Adventure|Romance
+16,Casino (1995),Crime|Drama
+17,Sense and Sensibility (1995),Drama|Romance
+18,Four Rooms (1995),Comedy|Thriller
+19,Ace Ventura: When Nature Calls (1995),Comedy
+20,Money Train (1995),Action|Comedy|Crime|Drama|Thriller
+21,Get Shorty (1995),Comedy|Crime|Drama|Thriller
+22,Copycat (1995),Crime|Drama|Horror|Mystery|Thriller
+23,Assassins (1995),Action|Crime|Thriller
+24,Powder (1995),Drama|Sci-Fi
+25,Leaving Las Vegas (1995),Drama|Romance
+26,Othello (1995),Drama
+27,Now and Then (1995),Children|Drama
+28,Persuasion (1995),Drama|Romance
+29,The City of Lost Children (1995),Adventure|Drama|Fantasy|Mystery|Sci-Fi
+30,Shanghai Triad (1995),Drama
+31,Dangerous Minds (1995),Drama
+32,Twelve Monkeys (1995),Mystery|Sci-Fi|Thriller
+33,Wings of Courage (1995),Adventure|Romance
+34,Babe (1995),Children|Comedy|Drama
+35,Carrington (1995),Drama|Romance
+36,Dead Man Walking (1995),Crime|Drama
+37,Across the Sea of Time (1995),Documentary
+38,It Takes Two (1995),Children|Comedy|Romance
+39,Clueless (1995),Comedy|Romance
+40,Cry the Beloved Country (1995),Drama
+41,Richard III (1995),Drama|War
+42,Dead Presidents (1995),Action|Crime|Drama
+43,Restoration (1995),Drama
+44,Mortal Kombat (1995),Action|Adventure|Fantasy
+45,To Die For (1995),Comedy|Drama|Thriller
+46,How to Make an American Quilt (1995),Drama|Romance
+47,Seven (1995),Mystery|Thriller
+48,Postman The (1995),Drama
+49,Smoke (1995),Comedy|Drama
+50,Something to Talk About (1995),Comedy|Drama|Romance
+51,City of Angels (1998),Drama|Fantasy|Romance
+52,Saving Private Ryan (1998),Action|Drama|War
+53,American History X (1998),Drama
+54,The Truman Show (1998),Comedy|Drama|Sci-Fi
+55,The Matrix (1999),Action|Sci-Fi|Thriller
+56,Fight Club (1999),Drama|Thriller
+57,American Beauty (1999),Drama|Romance
+58,The Sixth Sense (1999),Drama|Mystery|Thriller
+59,Gladiator (2000),Action|Adventure|Drama
+60,Memento (2000),Mystery|Thriller
+61,Crouching Tiger Hidden Dragon (2000),Action|Drama|Romance
+62,Lord of the Rings: The Fellowship (2001),Adventure|Fantasy
+63,Spirited Away (2001),Adventure|Animation|Fantasy
+64,Pirates of the Caribbean (2003),Action|Adventure|Fantasy
+65,Eternal Sunshine (2004),Drama|Romance|Sci-Fi
+66,The Dark Knight (2008),Action|Crime|Drama|Thriller
+67,Inception (2010),Action|Sci-Fi|Thriller
+68,Interstellar (2014),Adventure|Drama|Sci-Fi
+69,La La Land (2016),Comedy|Drama|Romance
+70,Parasite (2019),Comedy|Drama|Thriller
+71,Dune (2021),Adventure|Sci-Fi
+72,Everything Everywhere All at Once (2022),Action|Comedy|Sci-Fi
+73,The Shawshank Redemption (1994),Drama
+74,Forrest Gump (1994),Comedy|Drama|Romance
+75,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+76,The Lion King (1994),Adventure|Animation|Children|Drama|Musical
+77,Jurassic Park (1993),Adventure|Sci-Fi|Thriller
+78,Schindler's List (1993),Drama|War
+79,Titanic (1997),Drama|Romance
+80,Star Wars: Episode IV (1977),Action|Adventure|Sci-Fi
+81,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+82,The Silence of the Lambs (1991),Crime|Drama|Thriller
+83,Alien (1979),Horror|Sci-Fi|Thriller
+84,Terminator 2 (1991),Action|Sci-Fi|Thriller
+85,The Godfather (1972),Crime|Drama
+86,Goodfellas (1990),Crime|Drama
+87,The Departed (2006),Crime|Drama|Thriller
+88,No Country for Old Men (2007),Crime|Drama|Thriller
+89,There Will Be Blood (2007),Drama
+90,The Social Network (2010),Drama
+91,Gone Girl (2014),Drama|Mystery|Thriller
+92,Mad Max: Fury Road (2015),Action|Adventure|Sci-Fi|Thriller
+93,Get Out (2017),Horror|Mystery|Thriller
+94,Black Panther (2018),Action|Adventure|Sci-Fi
+95,Joker (2019),Crime|Drama|Thriller
+96,Knives Out (2019),Comedy|Crime|Drama|Mystery|Thriller
+97,Tenet (2020),Action|Sci-Fi|Thriller
+98,Dune: Part Two (2024),Adventure|Sci-Fi
+99,Oppenheimer (2023),Drama|Thriller
+100,Barbie (2023),Adventure|Comedy|Fantasy
