@@ -1,12 +1,19 @@
+# ===============================
 # Python
+# ===============================
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
+
+# Virtual environments
 env/
 venv/
 ENV/
+.venv/
+
+# Build / packaging
 build/
 develop-eggs/
 dist/
@@ -23,32 +30,49 @@ wheels/
 .installed.cfg
 *.egg
 
-# Data files (can be large)
-data/
-*.pkl
-*.pickle
-
-# Models
-models/
-*.h5
-*.hdf5
-*.pt
-*.pth
-
-# IDE
+# ===============================
+# IDE / Editor
+# ===============================
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
 
-# OS
+# ===============================
+# OS Files
+# ===============================
 .DS_Store
 Thumbs.db
 
-# Jupyter Notebook
-.ipynb_checkpoints
+# ===============================
+# Jupyter
+# ===============================
+.ipynb_checkpoints/
 
+# ===============================
 # Environment variables
+# ===============================
 .env
 .env.local
+
+# ===============================
+# ML / Data (IMPORTANT SECTION)
+# ===============================
+
+# Allow deployment data
+!data/
+!data/*.csv
+
+# Allow trained model
+!models/
+!models/*.pkl
+
+# Ignore other large model formats
+*.h5
+*.hdf5
+*.pt
+*.pth
+
+# Ignore random pickle files outside models folder
+*.pickle
